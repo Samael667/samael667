@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Django**
 
-- 📝 I regularly write articles on [clinerds.com](clinerds.com)
+- 📝 I regularly write articles on [clinerds.com](https://clinerds.com)
 
 - 💬 Ask me about **React,Linux,Cybersecurity**
 
